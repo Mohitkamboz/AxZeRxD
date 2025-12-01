@@ -70,13 +70,13 @@ mohit.say_hi()
 <a href="https://www.youtube.com/@nukersop" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://discord.gg/programmers" target="_blank">
+<a href="https://discord.gg/programmer" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://github.com/Mohitkamboz" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:contact@leveragers.com" target="_blank">
+<a href="mailto:mohit.4sure@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
@@ -220,7 +220,7 @@ mohit.say_hi()
 ✅ Freelance Projects | ✅ Collaboration | ✅ Full Stack Development | ✅ Consulting
 
 ### 📧 Get in Touch:
-📧 **Email:** contact@leveragers.com  
+📧 **Email:** mohit.4sure@gmail.com  
 💼 **Company:** Leveragers  
 📍 **Location:** India  
 ⏰ **Availability:** Open for new projects
