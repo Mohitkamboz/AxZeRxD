@@ -210,18 +210,7 @@ mohit.say_hi()
   Average Project Value: $600+
 ```
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Tech Stack | Status | Link |
-|---------|-----------|--------|------|
-| 🌐 E-commerce Platform | React, Django, PostgreSQL | ✅ Live | [View →](#) |
-| 🛠️ Developer Toolkit | Python, Flask, JavaScript | ✅ Live | [View →](#) |
-| 💼 Business Portfolio | HTML, CSS, JS | ✅ Live | [View →](#) |
-| 📱 SaaS Application | React, FastAPI, MongoDB | 🚧 In Progress | [View →](#) |
-
-</div>
 
 ## 📫 Let's Work Together!
 
