@@ -12,7 +12,7 @@
 
 ## 🎯 Professional Overview
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Mohitkamboz&countColor=%23FF0000" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=AxZeRxD&countColor=%23FF0000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Mohitkamboz?color=FF0000&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Mohitkamboz?color=FF0000&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
 </p>
